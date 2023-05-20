@@ -1,6 +1,6 @@
 # Zhirnova Tatiana
 
-![my photo]()
+![my photo](./images/my_photo.jpg)
 
 > tel: +7-920-980-7404  
 > e-mail: farfisa@yandex.ru  
